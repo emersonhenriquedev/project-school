@@ -11,7 +11,7 @@ import { FlexLayoutModule } from '@angular/flex-layout';
   imports: [
     MatToolbarModule,
     MatIconModule,
-    FlexLayoutModule
+    FlexLayoutModule,
   ],
   exports: [
     ToolbarTitleComponent
